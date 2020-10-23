@@ -147,9 +147,14 @@ html {
     top: 0px; }
 
 body {
-  background: #ffffff;
+  background-color: white;
   font-family: Roboto, sans-serif;
   -webkit-font-smoothing: antialiased; }
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
 
 .center-text {
   text-align: center; }
